@@ -1,0 +1,40 @@
+name: travel_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    # scenaries list
+    - assets/scenary/scenary0.png
+    - assets/scenary/scenary1.png
+    - assets/scenary/scenary2.png
+    - assets/scenary/scenary3.png
+    - assets/scenary/scenary4.png
+    - assets/scenary/scenary5.png
+    - assets/scenary/scenary6.png
+    - assets/scenary/scenary7.png
+    - assets/scenary/scenary8.png
+    - assets/scenary/scenary9.png
+    - assets/scenary/scenary10.png
+    - assets/scenary/scenary11.png
+    - assets/scenary/scenary12.png
+    - assets/scenary/scenary13.png
+    - assets/scenary/scenary14.png
+    - assets/scenary/scenary15.png
+    # profile
+    - assets/profile.png
